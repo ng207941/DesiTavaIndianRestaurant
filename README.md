@@ -15,9 +15,9 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 ![image](https://github.com/ng207941/DesiTavaIndianRestaurant/assets/145050599/e27d8eee-fe5b-4b86-ab1b-0ab15620725d)
 
-![image](https://github.com/ng207941/DesiTavaIndianRestaurant/assets/145050599/cdf3679c-638c-4c98-bd34-bda4619c419d)
+![image](https://github.com/ng207941/DesiTavaIndianRestaurant/assets/145050599/5c080c32-0be7-4400-8bfd-5161cbb2cd98)
 
-![image](https://github.com/ng207941/DesiTavaIndianRestaurant/assets/145050599/8b93eeee-c50f-443d-91fc-0b16f124b25b)
+![image](https://github.com/ng207941/DesiTavaIndianRestaurant/assets/145050599/9007d2d6-f039-43da-ad6d-9262a9d78b4b)
 
 ### `npm test`
 
